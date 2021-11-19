@@ -17,3 +17,4 @@ HW 2 :
     ``dictionaries.py`` 
     ``exceptions.py`` 
     ``useful_modules.py`` 
+HW 3: Graded! Go check your grade on canvas.
